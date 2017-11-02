@@ -1,0 +1,8 @@
+Basic JS Instructional
+- Scripts are a series of statements, sort of like in a recipe.
+- Scripts contain extremely precise instructions. Exact steps must be specified.
+- Variables are little chunks of stored memory to be used in a script.
+- Arrays are special variables that can store more than one piece of information in a list.
+- Javascript data types can be numbers (0-9), strings("text"), and boolean values (true and false only).
+- Expressions evaluate into single values.
+- Experessions use operators to calculate values.
