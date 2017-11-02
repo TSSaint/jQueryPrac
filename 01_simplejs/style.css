@@ -1,0 +1,22 @@
+/*css*/
+html {
+    height: 100vh;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#content {
+    border: 10px;
+    color: white;
+    display: inline-block;
+    padding: 50px;
+    overflow: auto;
+    text-align: center;
+}
